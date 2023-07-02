@@ -39,9 +39,6 @@ Mais uma vez, substitua `<caminho_do_apk>` pelo caminho completo do arquivo APK.
 
 O APK final será gerado com o nome `output.apk`.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 
 
