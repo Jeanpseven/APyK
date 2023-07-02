@@ -16,3 +16,33 @@ Este script em Python permite que você insira código personalizado em um arqui
 
 3. No diretório do projeto, execute o seguinte comando para instalar as dependências necessárias:
 
+
+## Uso
+
+1. No diretório do projeto, execute o seguinte comando para gerar o arquivo `AndroidManifest.xml`:
+
+
+2. Insira as informações solicitadas, como nome do pacote, versão do aplicativo e código da versão.
+
+3. Após gerar o `AndroidManifest.xml`, execute o seguinte comando para atualizar o arquivo com as bibliotecas ausentes:
+
+
+Certifique-se de substituir `<caminho_do_apk>` pelo caminho completo do arquivo APK.
+
+4. Em seguida, insira o código personalizado que deseja adicionar ao APK:
+
+
+Mais uma vez, substitua `<caminho_do_apk>` pelo caminho completo do arquivo APK.
+
+5. Por fim, execute o seguinte comando para gerar o APK final:
+
+
+O APK final será gerado com o nome `output.apk`.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+
+
+
